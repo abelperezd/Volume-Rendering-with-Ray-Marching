@@ -1,0 +1,379 @@
+﻿  animation.cpp
+  camera.cpp
+  box.cpp
+  box_bld.cpp
+  coldet.cpp
+  coldet_bld.cpp
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(26,66): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\camera.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(64,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\camera.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(149,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\camera.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\camera.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\camera.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\camera.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\camera.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(181,88): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\camera.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(26,66): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\animation.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(64,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\animation.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(149,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\animation.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\animation.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\animation.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\animation.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\animation.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(181,88): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\animation.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\extra\coldet\box_bld.cpp(134,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\extra\coldet\coldet.cpp(374,10): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  math3d.cpp
+  mytritri.cpp
+  sysdep.cpp
+  hdre.cpp
+  ImCurveEdit.cpp
+  ImGradient.cpp
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\camera.cpp(116,11): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\camera.cpp(125,13): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\camera.cpp(347,69): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\camera.cpp(353,69): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\extra\hdre.cpp(25,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\extra\hdre.cpp(27,16): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\extra\hdre.cpp(28,17): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\extra\hdre.cpp(87,11): warning C4244: 'inicializando': conversión de 'double' a 'size_t'; posible pérdida de datos
+  imgui.cpp
+  ImGuizmo.cpp
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\animation.cpp(42,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\animation.cpp(187,32): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\animation.cpp(189,47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\animation.cpp(189,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\animation.cpp(222,14): warning C4101: 'stbuffer': variable local sin referencia
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\animation.cpp(273,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\animation.cpp(314,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\animation.cpp(391,26): warning C4244: '=': conversión de '_Ty' a 'int'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\animation.cpp(392,31): warning C4244: '=': conversión de '_Ty' a 'int'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\animation.cpp(410,14): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\animation.cpp(415,21): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\animation.cpp(430,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\animation.cpp(431,36): warning C4244: '=': conversión de '_Ty' a 'int8'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\animation.cpp(439,15): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\animation.cpp(372,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  imgui_demo.cpp
+  imgui_impl_opengl3.cpp
+  imgui_impl_sdl.cpp
+  imgui_widgets.cpp
+  ImSequencer.cpp
+  picopng.cpp
+  pvmparser.cpp
+  textparser.cpp
+  fbo.cpp
+  framework.cpp
+  application.cpp
+  input.cpp
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\extra\pvmparser.cpp(28,40): warning C4244: 'argumento': conversión de 'const __int64' a 'size_t'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\extra\pvmparser.cpp(32,52): warning C4244: 'argumento': conversión de '__int64' a 'size_t'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\extra\pvmparser.cpp(36,33): warning C4244: 'argumento': conversión de 'const __int64' a 'size_t'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\extra\pvmparser.cpp(46,46): warning C4244: 'argumento': conversión de '__int64' a 'size_t'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\extra\pvmparser.cpp(294,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\extra\pvmparser.cpp(342,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\extra\pvmparser.cpp(352,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\extra\pvmparser.cpp(364,6): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(26,66): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\framework.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(64,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\framework.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(149,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\framework.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\framework.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\framework.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\framework.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\framework.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(181,88): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\framework.cpp)
+  light.cpp
+  main.cpp
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(26,66): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\light.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(64,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\light.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(149,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\light.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\light.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\light.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\light.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\light.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(181,88): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\light.cpp)
+  material.cpp
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(26,66): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\material.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(64,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\material.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(149,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\material.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\material.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\material.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\material.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\material.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(181,88): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\material.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(26,66): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\fbo.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(64,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\fbo.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(149,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\fbo.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\fbo.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\fbo.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\fbo.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\fbo.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(181,88): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\fbo.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.cpp(45,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.cpp(147,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.cpp(1199,32): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(26,66): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\application.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(64,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\application.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(149,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\application.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\application.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\application.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\application.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\application.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(181,88): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\application.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(26,66): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\input.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(64,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\input.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(149,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\input.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\input.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\input.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\input.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\input.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(181,88): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\input.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\input.cpp(138,24): warning C4244: '=': conversión de 'float' a 'char'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\input.cpp(146,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\application.cpp(38,17): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\application.cpp(39,17): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\application.cpp(42,16): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\application.cpp(43,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\application.cpp(47,43): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\application.cpp(81,46): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\application.cpp(134,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\application.cpp(149,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\application.cpp(150,20): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\application.cpp(175,55): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\application.cpp(177,55): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\application.cpp(352,36): warning C4244: '*=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\application.cpp(354,35): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  mesh.cpp
+  rendertotexture.cpp
+  scenenode.cpp
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(26,66): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\main.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(64,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\main.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(149,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\main.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\main.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\main.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\main.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\main.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(181,88): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\main.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(26,66): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\mesh.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(64,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\mesh.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(149,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\mesh.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\mesh.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\mesh.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\mesh.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\mesh.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(181,88): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\mesh.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\main.cpp(171,46): warning C4244: '=': conversión de 'Sint32' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\main.cpp(208,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  shader.cpp
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(26,66): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\scenenode.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(64,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\scenenode.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(149,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\scenenode.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\scenenode.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\scenenode.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\scenenode.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\scenenode.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(181,88): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\scenenode.cpp)
+  texture.cpp
+  utils.cpp
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(26,66): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\rendertotexture.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(64,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\rendertotexture.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(149,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\rendertotexture.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\rendertotexture.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\rendertotexture.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\rendertotexture.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\rendertotexture.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(181,88): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\rendertotexture.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\mesh.cpp(673,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\mesh.cpp(788,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\mesh.cpp(982,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\mesh.cpp(1153,27): warning C4244: 'argumento': conversión de 'double' a 'const unsigned int'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\mesh.cpp(1154,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\mesh.cpp(1102,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\mesh.cpp(1286,40): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\mesh.cpp(1286,25): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\mesh.cpp(1288,44): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\mesh.cpp(1288,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\mesh.cpp(1289,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\mesh.cpp(1296,44): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\mesh.cpp(1296,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\mesh.cpp(1298,43): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\mesh.cpp(1311,30): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\mesh.cpp(1334,30): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(26,66): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\shader.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(64,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\shader.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(149,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\shader.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\shader.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\shader.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\shader.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\shader.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(181,88): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\shader.cpp)
+  volume.cpp
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\shader.cpp(177,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\shader.cpp(216,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(26,66): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\texture.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(64,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\texture.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(149,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\texture.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\texture.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\texture.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\texture.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\texture.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(181,88): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\texture.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(18,51): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(18,9): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(19,56): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(19,9): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(24,15): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(25,15): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(32,55): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(32,9): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(33,57): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(33,9): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(38,15): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(39,15): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(208,125): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(26,66): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\utils.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(64,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\utils.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(311,94): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(311,87): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(332,102): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(332,94): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(332,87): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(358,111): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(358,104): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(149,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\utils.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(538,18): warning C4244: '=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\utils.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(539,19): warning C4244: '=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\utils.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\utils.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\utils.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(181,88): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\utils.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(556,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(552,12): warning C4101: 'bytesPerPixel': variable local sin referencia
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\texture.cpp(670,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\utils.cpp(137,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\utils.cpp(334,56): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\utils.cpp(335,63): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\utils.cpp(360,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\utils.cpp(370,16): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\utils.cpp(392,11): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\utils.cpp(394,17): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\utils.cpp(407,12): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\utils.cpp(416,14): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\utils.cpp(456,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\utils.cpp(457,59): warning C4244: 'argumento': conversión de '_Ty' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\utils.cpp(457,44): warning C4244: 'argumento': conversión de '_Ty' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\utils.cpp(457,29): warning C4244: 'argumento': conversión de '_Ty' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\utils.cpp(467,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\utils.cpp(468,74): warning C4244: 'argumento': conversión de '_Ty' a 'unsigned char'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\utils.cpp(468,59): warning C4244: 'argumento': conversión de '_Ty' a 'unsigned char'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\utils.cpp(468,44): warning C4244: 'argumento': conversión de '_Ty' a 'unsigned char'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\utils.cpp(468,29): warning C4244: 'argumento': conversión de '_Ty' a 'unsigned char'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(26,66): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\volume.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(64,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\volume.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(149,82): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\volume.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,109): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\volume.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,100): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\volume.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,91): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\volume.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(179,82): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos (compilando archivo de origen ..\..\src\volume.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\framework.h(181,88): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos (compilando archivo de origen ..\..\src\volume.cpp)
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(61,34): warning C4552: "/": el resultado de la expresión no se usa
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(73,34): warning C4552: "/": el resultado de la expresión no se usa
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(44,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(151,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(152,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(153,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(155,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(156,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(157,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(159,14): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(160,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(169,10): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(178,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(179,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(180,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(181,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(204,27): warning C4244: 'inicializando': conversión de 'double' a 'unsigned int'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(236,35): warning C4244: 'inicializando': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\apere\Desktop\Nueva carpeta\P3\src\volume.cpp(255,13): warning C4244: 'inicializando': conversión de 'float' a 'Uint8'; posible pérdida de datos
+  tritri.c
+  imgui_draw.cpp
+LINK : warning LNK4098: la biblioteca predeterminada'LIBCMT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 2659 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+LINK : warning LNK4286: "___glewDeleteBuffers" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewLinkProgram" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewDeleteShader" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGenBuffers" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGetProgramInfoLog" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewDetachShader" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewUniformMatrix4fv" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBlendEquationSeparate" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGenVertexArrays" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBlendEquation" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewShaderSource" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewDeleteProgram" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewActiveTexture" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewAttachShader" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBufferData" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGetUniformLocation" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBlendFuncSeparate" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewDeleteVertexArrays" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGetProgramiv" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGetShaderInfoLog" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewUniform1i" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewCreateProgram" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBindBuffer" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewCreateShader" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGetAttribLocation" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewCompileShader" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewGetShaderiv" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewDrawElementsBaseVertex" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewVertexAttribPointer" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewUseProgram" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBindSampler" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewBindVertexArray" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+LINK : warning LNK4286: "___glewEnableVertexAttribArray" importa el símbolo "glew32s.lib(glew.obj)" definido en "imgui_impl_opengl3.obj"
+glew32s.lib(glew.obj) : warning LNK4099: no se encontró PDB 'vc120.pdb' con 'glew32s.lib(glew.obj)' o en 'C:\Users\apere\Desktop\Nueva carpeta\P3\vc120.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  visualstudio.vcxproj -> C:\Users\apere\Desktop\Nueva carpeta\P3\visualstudio15\VS2015\..\..\framework.exe
