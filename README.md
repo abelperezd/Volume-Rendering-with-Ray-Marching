@@ -8,4 +8,6 @@ Además de los archivos, encontramos un vídeo de demostración y un ejecutable 
 También he incluído un report en el que explicamos de manera detallada la implementación.
 
 ### Instrucciones
-Ejecutar el proyecto desde Visual Studio.
+Para ver el resultado final, ejecutar el archivo *framework.exe*.
+
+Para ver el proyecto en Visual Studio, ejecutar el archivo *visualstudio2015.sln* que encontramos dentro de la carpeta *visualstudio15*. 
