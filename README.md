@@ -10,4 +10,4 @@ También he incluído un report en el que explicamos de manera detallada la impl
 ### Instrucciones
 Para ver el resultado final, ejecutar el archivo *framework.exe*.
 
-Para ver el proyecto en Visual Studio, ejecutar el archivo *visualstudio2015.sln* que encontramos dentro de la carpeta *visualstudio15*. 
+Para ver el proyecto en Visual Studio, ejecutar el archivo *visualstudio2015.sln* que encontramos dentro de la carpeta *visualstudio15*.
