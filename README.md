@@ -1,13 +1,16 @@
-# Información del repositorio
-En esta práctica hemos implementado un algoritmo de Volume Rendering utilizando Ray-Marching. Además, podemos ver el resultado en una aplicación enfocada a la medicina.
+# Information from the repository
+Lab 3 of the course Advanced Visualization, done in the fourth year.
+We have implemented a Volume Rendering algorithm using Ray-Marching. In addition, we can see the result in an application focused on medicine.
 
-La práctica ha sido realizada partiendo de un framework base desarrollado en C++ y los algoritmos de Volume Rendering se han implementado en OpenGL.
+The framework has been developed in C++and the Volume Rendering models have been implemented in OpenGL.
 
-Además de los archivos, encontramos un vídeo de demostración y un ejecutable en el que podemos ver el resultado.
+In addition to the files, we find a demonstration video and an executable in which we can see the result.
 
-También he incluído un report en el que explicamos de manera detallada la implementación.
+I have also included a report in which we explain in detail the implementation.
 
-### Instrucciones
-Para ver el resultado final, ejecutar el archivo *framework.exe*.
+### Instructions
+To see the final result, run the *framework.exe* file.
 
-Para ver el proyecto en Visual Studio, ejecutar el archivo *visualstudio2015.sln* que encontramos dentro de la carpeta *visualstudio15*.
+To see the project in Visual Studio, run the file *visualstudio2015.sln* that we find inside the folder *visualstudio15*.
+
+The project has been done on the basis of a framework developed by [Javi Agenjo](https://github.com/jagenjo).
