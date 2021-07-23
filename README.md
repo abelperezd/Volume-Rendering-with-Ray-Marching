@@ -4,7 +4,7 @@ We have implemented a Volume Rendering algorithm using Ray-Marching. In addition
 
 The framework has been developed in C++and the Volume Rendering models have been implemented in OpenGL.
 
-In addition to the files, we find an executable in which we can see the result, a report in which we explain in detail the implementation and a [demonstration video](https://www.youtube.com/watch?v=lYEhrGucsfI&list=PLoUOv_yCOVC764tZBDVVVvnuVygZ0iRph&index=4).
+In addition to the files, we find an executable in which we can see the result, a report in which we explain in detail the implementation and a [demonstration video](https://www.youtube.com/watch?v=W_5r5V9TeX4&list=PLB9_8zTTrVjrCGwse6iae4oY9OeJVtho_&index=2).
 
 ### Instructions
 To see the final result, run the *framework.exe* file.
